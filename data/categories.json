@@ -1,5 +1,156 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "src.utils.db_client.db_client.DbCallError: (psycopg2.OperationalError) could not translate host name \"acc-db-shared.nationalenederlanden-net.davincicloud.nl\" to address: Unknown host\n\n(Background on this error at: http://sqlalche.me/e/14/e3q8)\n",
+      "children" : [ {
+        "name" : "Mutation with reason manual rate revision can be created",
+        "uid" : "8da5fbadf31f4a75",
+        "parentUid" : "1d27ac8d92311c5a456637e243a4fb5d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1689687523495,
+          "stop" : 1689687534790,
+          "duration" : 11295
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Mutation with reason non contractual rate revision can be created",
+        "uid" : "475b45fa9a379212",
+        "parentUid" : "1d27ac8d92311c5a456637e243a4fb5d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1689687534792,
+          "stop" : 1689687534804,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Amortization schedule simulation for mutation type non-contractual rate revision",
+        "uid" : "37b2b5095d305e62",
+        "parentUid" : "1d27ac8d92311c5a456637e243a4fb5d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1689687534807,
+          "stop" : 1689687534823,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Amortization schedule simulation for mutation type non-contractual rate revision with interest mediation",
+        "uid" : "e3a6de88dd4590f6",
+        "parentUid" : "1d27ac8d92311c5a456637e243a4fb5d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1689687534828,
+          "stop" : 1689687534840,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "4Eye principal for mutation of type non contractual rate revision",
+        "uid" : "bf122b3c6a0782af",
+        "parentUid" : "1d27ac8d92311c5a456637e243a4fb5d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1689687534843,
+          "stop" : 1689687534858,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "4Eye principal for mutation of type non contractual rate revision with interest mediation",
+        "uid" : "ac5b51b7c54f7877",
+        "parentUid" : "1d27ac8d92311c5a456637e243a4fb5d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1689687534860,
+          "stop" : 1689687534873,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Activation of mutation of type non contractual rate revision",
+        "uid" : "9333b744f1aee6bf",
+        "parentUid" : "1d27ac8d92311c5a456637e243a4fb5d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1689687534876,
+          "stop" : 1689687534891,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Documents need to be received to verify non contractual rate revision with interest mediation",
+        "uid" : "6ff1a9a73408681e",
+        "parentUid" : "1d27ac8d92311c5a456637e243a4fb5d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1689687534893,
+          "stop" : 1689687534905,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Activation of mutation of type non contractual rate revision with interest mediation",
+        "uid" : "532239653f1fb463",
+        "parentUid" : "1d27ac8d92311c5a456637e243a4fb5d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1689687534907,
+          "stop" : 1689687534924,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Amortization schedule can't be simulated when activation date is before activation date of active schedule",
+        "uid" : "56e9d3113facf698",
+        "parentUid" : "1d27ac8d92311c5a456637e243a4fb5d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1689687534926,
+          "stop" : 1689687534942,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Mutation can't be activated when activation date is after next due date",
+        "uid" : "573091db77810171",
+        "parentUid" : "1d27ac8d92311c5a456637e243a4fb5d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1689687534944,
+          "stop" : 1689687534991,
+          "duration" : 47
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1d27ac8d92311c5a456637e243a4fb5d"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
 }

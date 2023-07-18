@@ -1,20 +1,221 @@
 {
-  "2de63dc34977a60a663b60894f8cafe1" : {
+  "5050484f7c1373c8a567c659c35b0493" : {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "70bfb947410a0d9e",
-      "status" : "passed",
+      "uid" : "6ff1a9a73408681e",
+      "status" : "failed",
+      "statusDetails" : "src.utils.db_client.db_client.DbCallError: (psycopg2.OperationalError) could not translate host name \"acc-db-shared.nationalenederlanden-net.davincicloud.nl\" to address: Unknown host\n\n(Background on this error at: http://sqlalche.me/e/14/e3q8)\n",
       "time" : {
-        "start" : 1689330336017,
-        "stop" : 1689330406451,
-        "duration" : 70434
+        "start" : 1689687534893,
+        "stop" : 1689687534905,
+        "duration" : 12
+      }
+    } ]
+  },
+  "e0e5f51841a1097c184049822e72c7a2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "475b45fa9a379212",
+      "status" : "failed",
+      "statusDetails" : "src.utils.db_client.db_client.DbCallError: (psycopg2.OperationalError) could not translate host name \"acc-db-shared.nationalenederlanden-net.davincicloud.nl\" to address: Unknown host\n\n(Background on this error at: http://sqlalche.me/e/14/e3q8)\n",
+      "time" : {
+        "start" : 1689687534792,
+        "stop" : 1689687534804,
+        "duration" : 12
+      }
+    } ]
+  },
+  "b7964319276cb84977ad9e90e731c6d2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56e9d3113facf698",
+      "status" : "failed",
+      "statusDetails" : "src.utils.db_client.db_client.DbCallError: (psycopg2.OperationalError) could not translate host name \"acc-db-shared.nationalenederlanden-net.davincicloud.nl\" to address: Unknown host\n\n(Background on this error at: http://sqlalche.me/e/14/e3q8)\n",
+      "time" : {
+        "start" : 1689687534926,
+        "stop" : 1689687534942,
+        "duration" : 16
+      }
+    } ]
+  },
+  "2de63dc34977a60a663b60894f8cafe1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e3a6de88dd4590f6",
+      "status" : "failed",
+      "statusDetails" : "src.utils.db_client.db_client.DbCallError: (psycopg2.OperationalError) could not translate host name \"acc-db-shared.nationalenederlanden-net.davincicloud.nl\" to address: Unknown host\n\n(Background on this error at: http://sqlalche.me/e/14/e3q8)\n",
+      "time" : {
+        "start" : 1689687534828,
+        "stop" : 1689687534840,
+        "duration" : 12
+      }
+    } ]
+  },
+  "256a112cc468701ce8b395f801e6e065" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac5b51b7c54f7877",
+      "status" : "failed",
+      "statusDetails" : "src.utils.db_client.db_client.DbCallError: (psycopg2.OperationalError) could not translate host name \"acc-db-shared.nationalenederlanden-net.davincicloud.nl\" to address: Unknown host\n\n(Background on this error at: http://sqlalche.me/e/14/e3q8)\n",
+      "time" : {
+        "start" : 1689687534860,
+        "stop" : 1689687534873,
+        "duration" : 13
+      }
+    } ]
+  },
+  "c2bee155330572bfc98e5cb2efa18d1f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9333b744f1aee6bf",
+      "status" : "failed",
+      "statusDetails" : "src.utils.db_client.db_client.DbCallError: (psycopg2.OperationalError) could not translate host name \"acc-db-shared.nationalenederlanden-net.davincicloud.nl\" to address: Unknown host\n\n(Background on this error at: http://sqlalche.me/e/14/e3q8)\n",
+      "time" : {
+        "start" : 1689687534876,
+        "stop" : 1689687534891,
+        "duration" : 15
+      }
+    } ]
+  },
+  "5e67773e489d946f5320e2c9ce662d8b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bf122b3c6a0782af",
+      "status" : "failed",
+      "statusDetails" : "src.utils.db_client.db_client.DbCallError: (psycopg2.OperationalError) could not translate host name \"acc-db-shared.nationalenederlanden-net.davincicloud.nl\" to address: Unknown host\n\n(Background on this error at: http://sqlalche.me/e/14/e3q8)\n",
+      "time" : {
+        "start" : 1689687534843,
+        "stop" : 1689687534858,
+        "duration" : 15
+      }
+    } ]
+  },
+  "5c02adbc1a205755f77626c2716b3cca" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "573091db77810171",
+      "status" : "failed",
+      "statusDetails" : "src.utils.db_client.db_client.DbCallError: (psycopg2.OperationalError) could not translate host name \"acc-db-shared.nationalenederlanden-net.davincicloud.nl\" to address: Unknown host\n\n(Background on this error at: http://sqlalche.me/e/14/e3q8)\n",
+      "time" : {
+        "start" : 1689687534944,
+        "stop" : 1689687534991,
+        "duration" : 47
+      }
+    } ]
+  },
+  "3c4edc145f93a166ab60c35cde787418" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "532239653f1fb463",
+      "status" : "failed",
+      "statusDetails" : "src.utils.db_client.db_client.DbCallError: (psycopg2.OperationalError) could not translate host name \"acc-db-shared.nationalenederlanden-net.davincicloud.nl\" to address: Unknown host\n\n(Background on this error at: http://sqlalche.me/e/14/e3q8)\n",
+      "time" : {
+        "start" : 1689687534907,
+        "stop" : 1689687534924,
+        "duration" : 17
+      }
+    } ]
+  },
+  "e78751ba53cfbe745640298c4a2816c2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "37b2b5095d305e62",
+      "status" : "failed",
+      "statusDetails" : "src.utils.db_client.db_client.DbCallError: (psycopg2.OperationalError) could not translate host name \"acc-db-shared.nationalenederlanden-net.davincicloud.nl\" to address: Unknown host\n\n(Background on this error at: http://sqlalche.me/e/14/e3q8)\n",
+      "time" : {
+        "start" : 1689687534807,
+        "stop" : 1689687534823,
+        "duration" : 16
+      }
+    } ]
+  },
+  "26ffda82280759531bc64249e05f0d08" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8da5fbadf31f4a75",
+      "status" : "failed",
+      "statusDetails" : "src.utils.db_client.db_client.DbCallError: (psycopg2.OperationalError) could not translate host name \"acc-db-shared.nationalenederlanden-net.davincicloud.nl\" to address: Unknown host\n\n(Background on this error at: http://sqlalche.me/e/14/e3q8)\n",
+      "time" : {
+        "start" : 1689687523495,
+        "stop" : 1689687534790,
+        "duration" : 11295
       }
     } ]
   }

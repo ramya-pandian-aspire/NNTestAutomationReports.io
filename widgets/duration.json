@@ -1,11 +1,111 @@
 [ {
-  "uid" : "70bfb947410a0d9e",
+  "uid" : "e3a6de88dd4590f6",
   "name" : "Amortization schedule simulation for mutation type non-contractual rate revision with interest mediation",
   "time" : {
-    "start" : 1689330336017,
-    "stop" : 1689330406451,
-    "duration" : 70434
+    "start" : 1689687534828,
+    "stop" : 1689687534840,
+    "duration" : 12
   },
-  "status" : "passed",
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8da5fbadf31f4a75",
+  "name" : "Mutation with reason manual rate revision can be created",
+  "time" : {
+    "start" : 1689687523495,
+    "stop" : 1689687534790,
+    "duration" : 11295
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "475b45fa9a379212",
+  "name" : "Mutation with reason non contractual rate revision can be created",
+  "time" : {
+    "start" : 1689687534792,
+    "stop" : 1689687534804,
+    "duration" : 12
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9333b744f1aee6bf",
+  "name" : "Activation of mutation of type non contractual rate revision",
+  "time" : {
+    "start" : 1689687534876,
+    "stop" : 1689687534891,
+    "duration" : 15
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf122b3c6a0782af",
+  "name" : "4Eye principal for mutation of type non contractual rate revision",
+  "time" : {
+    "start" : 1689687534843,
+    "stop" : 1689687534858,
+    "duration" : 15
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac5b51b7c54f7877",
+  "name" : "4Eye principal for mutation of type non contractual rate revision with interest mediation",
+  "time" : {
+    "start" : 1689687534860,
+    "stop" : 1689687534873,
+    "duration" : 13
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "532239653f1fb463",
+  "name" : "Activation of mutation of type non contractual rate revision with interest mediation",
+  "time" : {
+    "start" : 1689687534907,
+    "stop" : 1689687534924,
+    "duration" : 17
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "573091db77810171",
+  "name" : "Mutation can't be activated when activation date is after next due date",
+  "time" : {
+    "start" : 1689687534944,
+    "stop" : 1689687534991,
+    "duration" : 47
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "56e9d3113facf698",
+  "name" : "Amortization schedule can't be simulated when activation date is before activation date of active schedule",
+  "time" : {
+    "start" : 1689687534926,
+    "stop" : 1689687534942,
+    "duration" : 16
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "37b2b5095d305e62",
+  "name" : "Amortization schedule simulation for mutation type non-contractual rate revision",
+  "time" : {
+    "start" : 1689687534807,
+    "stop" : 1689687534823,
+    "duration" : 16
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ff1a9a73408681e",
+  "name" : "Documents need to be received to verify non contractual rate revision with interest mediation",
+  "time" : {
+    "start" : 1689687534893,
+    "stop" : 1689687534905,
+    "duration" : 12
+  },
+  "status" : "failed",
   "severity" : "normal"
 } ]

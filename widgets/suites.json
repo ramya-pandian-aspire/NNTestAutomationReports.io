@@ -4,12 +4,12 @@
     "uid" : "729d2b9aa103b1947999f753a6ec692b",
     "name" : "src/tests/bdd/features/closebo/client_custom/nn/non_contractual_rate_revision/non_contractual_rate_revision.feature",
     "statistic" : {
-      "failed" : 0,
+      "failed" : 11,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 11
     }
   } ]
 }
