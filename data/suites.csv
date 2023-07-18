@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jul 14 15:55:36 IST 2023","Fri Jul 14 15:56:46 IST 2023","70434","","src/tests/bdd/features/closebo/client_custom/nn/non_contractual_rate_revision/non_contractual_rate_revision.feature","","","","Amortization schedule simulation for mutation type non-contractual rate revision with interest mediation",""

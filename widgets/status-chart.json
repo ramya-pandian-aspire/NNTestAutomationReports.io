@@ -1,1 +1,11 @@
-[ ]
+[ {
+  "uid" : "70bfb947410a0d9e",
+  "name" : "Amortization schedule simulation for mutation type non-contractual rate revision with interest mediation",
+  "time" : {
+    "start" : 1689330336017,
+    "stop" : 1689330406451,
+    "duration" : 70434
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

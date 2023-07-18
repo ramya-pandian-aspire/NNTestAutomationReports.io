@@ -1,5 +1,26 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "Closebo: Client Custom: Nn: Non Contractual Rate Revision",
+    "children" : [ {
+      "name" : "Non contractual rate revision (TRENT)",
+      "children" : [ {
+        "name" : "Amortization schedule simulation for mutation type non-contractual rate revision with interest mediation",
+        "uid" : "70bfb947410a0d9e",
+        "parentUid" : "f8bcb3ef3b616890765452a537762644",
+        "status" : "passed",
+        "time" : {
+          "start" : 1689330336017,
+          "stop" : 1689330406451,
+          "duration" : 70434
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f8bcb3ef3b616890765452a537762644"
+    } ],
+    "uid" : "7364601d3fc03f8f92440cdd7d7fcce1"
+  } ]
 }

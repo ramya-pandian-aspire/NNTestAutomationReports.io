@@ -1,5 +1,22 @@
 {
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "name" : "suites",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "src/tests/bdd/features/closebo/client_custom/nn/non_contractual_rate_revision/non_contractual_rate_revision.feature",
+    "children" : [ {
+      "name" : "Amortization schedule simulation for mutation type non-contractual rate revision with interest mediation",
+      "uid" : "70bfb947410a0d9e",
+      "parentUid" : "729d2b9aa103b1947999f753a6ec692b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689330336017,
+        "stop" : 1689330406451,
+        "duration" : 70434
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "729d2b9aa103b1947999f753a6ec692b"
+  } ]
 }

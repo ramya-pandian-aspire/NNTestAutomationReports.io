@@ -1,5 +1,22 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "MainProcess",
+    "children" : [ {
+      "name" : "Amortization schedule simulation for mutation type non-contractual rate revision with interest mediation",
+      "uid" : "70bfb947410a0d9e",
+      "parentUid" : "44dad38038b2ef0b0b0074a978e43fce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689330336017,
+        "stop" : 1689330406451,
+        "duration" : 70434
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "44dad38038b2ef0b0b0074a978e43fce"
+  } ]
 }
